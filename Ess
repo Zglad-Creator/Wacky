@@ -1,0 +1,1 @@
+game:GetService("ReplicatedStorage").Events.Vendor.BoughtEssence:FireServer(5000)
